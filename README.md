@@ -1,11 +1,11 @@
 # ODD2023-Datascience-Ex06AIM:
-##Aim:
+###Aim:
 To read the given data and perform Feature Transformation process and save the data to a file.
 
-##ALGORITHM:
+###ALGORITHM:
 1.Read the given Data 2.Perform Data cleaning process on the dataset. 3.Apply Feature Transformation techniques to all the features of the data set 4 Analyse the transformed features
 
-##CODE AND OUTPUT:
+###CODE AND OUTPUT:
 ```py
 import pandas as pd
 from scipy import stats
@@ -81,7 +81,7 @@ plt.show()
 ```
 ![image](https://github.com/kanishka2305/ODD2023-Datascience-Ex06/assets/113497357/fc04c9ab-7a63-441a-a9db-08cf5a650128)
 
-##RESULT:
+###RESULT:
 Thus feature transformation is done for the given dataset.
 
 
