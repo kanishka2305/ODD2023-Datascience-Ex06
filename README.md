@@ -2,10 +2,10 @@
 # Aim:
 To read the given data and perform Feature Transformation process and save the data to a file.
 # ALGORITHM:
-1.Read the given Data
-2.Perform Data cleaning process on the dataset.
-3.Apply Feature Transformation techniques to all the features of the data set
-4.Analyse the transformed features
+### Step 1:Read the given Data
+### Step 2:Perform Data cleaning process on the dataset.
+### Step 3:Apply Feature Transformation techniques to all the features of the data set
+### step 4:Analyse the transformed features
 
 # CODE AND OUTPUT:
 ```py
